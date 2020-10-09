@@ -2,7 +2,7 @@
 
 * Simple doodle jump game made in JavaScript
 
-* Upon load the doodle  ![doodle](./images/doodle.png) will begin to jump on the first platform ![platform](./images/platform.png).
+* Upon load the doodle  ![doodle](./images/dawkins.png) will begin to jump on the first platform ![platform](./images/platform.png).
 
 * Use the left and right arrow keys to move the doodle accordingly. In order to stop the doodle from moving either left or right, use the up arrow key.
 
